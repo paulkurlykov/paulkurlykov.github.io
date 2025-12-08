@@ -1,0 +1,4 @@
+.DS_Store
+.eslintrc.yml
+.prettierrc.yml
+node_modules/
